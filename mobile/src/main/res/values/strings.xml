@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="winText">wins!</string>
+    <string name="drawText">It\'s a draw!</string>
+</resources>
