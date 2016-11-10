@@ -4,8 +4,7 @@ Connect 3 is a new flavor of the classic TicTacToe, for Android and AndroidWear.
   - Material Design
   - Extremely Simplified
 
- ![Phone](/img/Phone.png)
- ![Wear](/img/Wear.png)
+ ![Phone](/img/Phone.png)![Wear](/img/Wear.png)
 
 
 ### Todos
